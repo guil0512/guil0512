@@ -15,6 +15,10 @@
   />
 </picture>
 
+### Who am I?
+
+I am a Computer Science student
+
 ### Programming Languages, Frameworks and Technologies
 
 <img 
