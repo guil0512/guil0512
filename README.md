@@ -1,4 +1,6 @@
-### Linguagens e Tecnologias
+# Hi 👋, I'm Guilherme Olivo
+
+### Programming Languages, Frameworks and Technologies
 
 <img 
     align="left" 
