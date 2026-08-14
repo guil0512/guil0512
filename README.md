@@ -17,7 +17,7 @@
 
 ### Who am I?
 
-I am a Computer Science student
+Full-Stack Developer focused on building fast, intuitive and secure systems.
 
 ### Programming Languages, Frameworks and Technologies
 
